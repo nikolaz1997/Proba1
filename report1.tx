@@ -48,6 +48,10 @@ IdentityCard:
     /\d{9}/
 ;
 
+IdentityCard:
+    /\d{9}/
+;
+
 Bank:
     STRING
 ;
